@@ -1,7 +1,7 @@
 package ru.sbtqa;
 
 /**
- * Greeter class
+ * Greeter class.
  */
 public class Greeter {
 
